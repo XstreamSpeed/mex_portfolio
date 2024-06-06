@@ -75,7 +75,7 @@ export const navItems = [
     {
       quote:
         "Collaborating with Rishan was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Rudish has completed a bot for me and continued improving it until I got it the way I wanted",
-      name: "Confront",
+      name: "Quadro",
       title: "Director of Quadro",
     },
     {
@@ -90,7 +90,7 @@ export const navItems = [
     {
       id: 1,
       name: "Sleepy Development",
-      img: "https://imgur.com/JgzvjkY",
+      img: "/sillydev.png",
       nameImg: "Sleepy Development",
     },
 
