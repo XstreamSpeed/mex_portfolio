@@ -6,8 +6,8 @@ import { ThemeProvider } from "./provider";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Rudi portfolio",
-  description: "Created by @rudish",
+  title: "Rishan's portfolio",
+  description: "Created by @g.spxrk on Discord",
   icons:{
     icon:[
       "/rudiPfp.png",
