@@ -22,27 +22,6 @@ export const navItems = [
 
   export const jobs = [
     {
-      title: "Customer support",
-      description:
-        "As a seasoned customer support specialist, I excel in delivering exceptional service and resolving issues efficiently",
-        link: "/",
-      imageSrc:"/customer_support.png"
-    },
-    {
-      title: "Community manager",
-      description:
-        "Community Manager plays a vital role in fostering a positive and engaged community for a brand or organization.",
-        link: "/",
-      imageSrc:"/community_manager.png"
-    },
-    {
-      title: "Moderator",
-      description:
-        "Moderator involves overseeing online forums, social media platforms, and community discussions to ensure a respectful and constructive environment. ",
-        link: "/",
-      imageSrc:"/moderator.png"
-    },
-    {
       title: "Developer",
       description:
         "As a skilled Developer, I specialize in creating dynamic and responsive web applications using modern technologies.",
@@ -52,16 +31,9 @@ export const navItems = [
     {
       title: "Freelancer",
       description:
-        "Freelancer bring a versatile set of skills honed through diverse projects and industries",
+        "Freelancers bring a versatile set of skills honed through diverse projects and industries",
         link: "/",
       imageSrc:"/freelancer.png"
-    },
-    {
-      title: "Coding helper",
-      description:
-        "Coding helper involves assisting fellow developers and learners by providing clear, concise solutions to coding challenges, debugging complex issues, and offering guidance on best practices and efficient coding techniques.",
-      link: "/",
-      imageSrc:"/coding_helper.png"
     },
   ];
   
@@ -69,58 +41,57 @@ export const navItems = [
   export const projects = [
     {
       id: 1,
-      title: "Rudi Commissions",
-      des: "Commissions server for me to provide various services like bot development, website development and etc",
-      img: "/rudi logo.jpg",
-      iconLists: ["/discord logo.png"],
-      
-      link: "https://discord.rudish.dev/",
-    },
-    {
-      id: 2,
-      title: "Rudi portfolio",
-      des: "My portfolio website to showcase my projects and about me",
-      img: "https://img.rudish.dev/2Y3fThkEOF.png",
-      iconLists: ["/re.svg", "/next.svg","/tail.svg", "/ts.svg"],
-      link: "https://github.com/Rudishh/rudi_portfolio",
+      title: "Quadro",
+      des: "A multipurpose Discord app for enhancing the average user's experience.",
+      img: "https://images-ext-1.discordapp.net/external/am6Dqh4pwg1PmjVYsxT18s9sHCmMdYCuOAHqBicKZ6o/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/980797090718433301/9435e978515db4f3f8a2076736f0facf.webp?format=webp&width=473&height=473",
+      iconLists: ["/sql logo.png", "/jslogo.png","/discord logo.png"],
+      link: "https://discord.gg/eYjnF84AWk",
     },
     {
       id: 3,
-      title: "ConfrontAi bot",
-      des: "Discord bot with mulpitle latest AI features like text gpt, voice ai, image generations and more.",
+      title: "Embedify",
+      des: "The best way to create embeds on Discord.",
       img: "/confrontai.png",
-      iconLists: ["/sql logo.png", "/jslogo.png","/discord logo.png"],
+      iconLists: ["/jslogo.png","/discord logo.png"],
       link: "https://confrontai.com/",
+    },
+    {
+      id: 4,
+      title: "PizzaBot",
+      des: "An upcoming Discord bot.",
+      img: "https://cdn.discordapp.com/avatars/1046503636831842444/e5094ff47160a9521a895e30e0ef1cb9.png?size=2048",
+      iconLists: ["/sql logo.png", "/jslogo.png","/discord logo.png"], 
+      link: "https://discord.gg/fJr2MutsGf",
     },
   ];
   
   export const testimonials = [
     {
       quote:
-        "Collaborating with Rudish was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Rudish has completed a bot for me and continued improving it until I got it the way I wanted",
-      name: "Confront",
-      title: "Director of ConfrontAi",
+        "Collaborating with Rishan was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Rudish has completed a bot for me and continued improving it until I got it the way I wanted",
+      name: "Quadro",
+      title: "Director of Quadro",
     },
     {
       quote:
-        "Collaborating with Rudish was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Rudish has completed a bot for me and continued improving it until I got it the way I wanted",
+        "Collaborating with Rishan was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Rudish has completed a bot for me and continued improving it until I got it the way I wanted",
       name: "Confront",
-      title: "Director of ConfrontAi",
+      title: "Director of Quadro",
     },
     {
       quote:
-        "Collaborating with Rudish was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Rudish has completed a bot for me and continued improving it until I got it the way I wanted",
-      name: "Confront",
-      title: "Director of ConfrontAi",
+        "Collaborating with Rishan was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Rudish has completed a bot for me and continued improving it until I got it the way I wanted",
+      name: "Quadro",
+      title: "Director of Quadro",
     },
   ];
   
   export const companies = [
     {
       id: 1,
-      name: "PebbleHost",
-      img: "https://pebblehost.com/src/img/logos/p.png",
-      nameImg: "PebbleHost",
+      name: "Sleepy Development",
+      img: "https://imgur.com/JgzvjkY",
+      nameImg: "Sleepy Development",
     },
 
   ];
@@ -128,22 +99,22 @@ export const navItems = [
   export const workExperience = [
     {
       id: 1,
-      title: "Discord bot development",
-      desc: "Assisted in the development of a high quality bots using JavaScript, enhancing discord platform use.",
+      title: "Discord App development",
+      desc: "Assisted in the development of a high quality apps using JavaScript, enhancing Discord platform use.",
       className: "md:col-span-2",
       thumbnail: "/discord logo.png",
     },
     {
       id: 2,
       title: "Database management",
-      desc: "Extensive knowledge for using database like MySQL and MongoDB for their scalability at organisation",
+      desc: "Extensive knowledge for using databases like MySQL and MongoDB for their scalability at organisation",
       className: "md:col-span-2", // change to md:col-span-2
       thumbnail: "/sql logo.png",
     },
     {
       id: 3,
       title: "Freelance developer",
-      desc: "Developer who have handled customers and done 50+ commissions dealing over 3000 dollars.",
+      desc: "A Developer who has handled customers and done 20+ commissions dealing over 150 dollars.",
       className: "md:col-span-2", // change to md:col-span-2
       thumbnail: "/exp3.svg",
     },
@@ -160,21 +131,11 @@ export const navItems = [
     {
       id: 1,
       img: "/git.svg",
-      link:"https://github.com/Rudishh"
+      link:"https://github.com/XstreamSped"
     },
     {
       id: 2,
-      img: "/twit.svg",
-      link:"https://x.com/Rudishh_"
-    },
-    {
-      id: 3,
-      img: "/link.svg",
-      link:"https://www.linkedin.com/"
-    },
-    {
-      id: 4,
       img:"/discord logo.png",
-      link:"https://discord.gg/NmTFgsxm7e"
+      link:"https://discord.gg/eYjnF84AWk"
     }
   ];
