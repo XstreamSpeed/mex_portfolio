@@ -12,7 +12,7 @@ const Footer = () => {
                  Contact me
                </h1>
                <p className='text-white-200 md:mt-10 my-5 text-center'>
-Reach out me for professional and project inquiries, commission and collaboration opportunities, please feel free to reach out to me via email or on Discord at @rudish
+Reach out me for professional and project inquiries, commission and collaboration opportunities, please feel free to reach out to me via email or on Discord at @g.spxrk
 </p>
 
 <a href="mailto:contact@rudish.dev">
