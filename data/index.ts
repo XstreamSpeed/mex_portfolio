@@ -51,7 +51,7 @@ export const navItems = [
       id: 3,
       title: "Embedify",
       des: "The best way to create embeds on Discord.",
-      img: "/confrontai.png",
+      img: "https://cdn.discordapp.com/avatars/1243553964088098990/9316d8d22c3c70ac49e4f1330a89ab2c.png?size=1024",
       iconLists: ["/jslogo.png","/discord logo.png"],
       link: "https://confrontai.com/",
     },
