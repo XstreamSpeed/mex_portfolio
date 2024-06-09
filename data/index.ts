@@ -45,7 +45,7 @@ export const navItems = [
       des: "A multipurpose Discord app for enhancing the average user's experience.",
       img: "https://images-ext-1.discordapp.net/external/am6Dqh4pwg1PmjVYsxT18s9sHCmMdYCuOAHqBicKZ6o/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/980797090718433301/9435e978515db4f3f8a2076736f0facf.webp?format=webp&width=473&height=473",
       iconLists: ["/sql logo.png", "/jslogo.png","/discord logo.png"],
-      link: "https://discord.gg/eYjnF84AWk",
+      link: "https://quadrov6.vercel.app",
     },
     {
       id: 3,
@@ -53,7 +53,7 @@ export const navItems = [
       des: "The best way to create embeds on Discord.",
       img: "https://cdn.discordapp.com/attachments/1243977743985541241/1249396104999735407/240_F_333099003_k7dXXa71RslgmqM2yxTe0LvkA04wX9C8-removebg-preview.png?ex=6667264c&is=6665d4cc&hm=d3de04b1601eef96b1cbfae02e3a9477d33b20823223f54a40d80970b96058f4&",
       iconLists: ["/jslogo.png","/discord logo.png"],
-      link: "https://confrontai.com/",
+      link: "https://discord.gg/jdssyuZE9t",
     },
     {
       id: 4,
