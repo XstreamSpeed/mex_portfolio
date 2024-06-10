@@ -80,12 +80,6 @@ export const navItems = [
       title: "Developer at Sleepy Development",
       img: "https://cdn.discordapp.com/avatars/833752068300210236/e510f31afecc09ad8d918829dd27f3c5.webp?size=1024"
     },
-    {
-      quote:
-        "Collaborating with Rishan was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Rudish has completed a bot for me and continued improving it until I got it the way I wanted",
-      name: "Quadro",
-      title: "Director of Quadro",
-    },
   ];
   
   export const companies = [
